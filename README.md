@@ -6,29 +6,29 @@ Total Rows: 185,950
 
 Total Columns: 11
 
-Time Period: Includes orders from different months of the year.
+1.Time Period: Includes orders from different months of the year.
 
-No missing values detected.
+2.No missing values detected.
 
-Columns Overview:
+3.Columns Overview:
 
-Order ID: Unique identifier for each order
+4.Order ID: Unique identifier for each order
 
-Product: Name of the product sold
+5.Product: Name of the product sold
 
-Quantity Ordered: Number of units sold
+6.Quantity Ordered: Number of units sold
 
-Price Each: Price per unit (in USD)
+7.Price Each: Price per unit (in USD)
 
-Order Date: Date and time of the purchase
+8.Order Date: Date and time of the purchase
 
-Purchase Address: Address where the order was delivered
+9.Purchase Address: Address where the order was delivered
 
-Month: Extracted month of the order
+10.Month: Extracted month of the order
 
-Sales: Total sales amount (Quantity Ordered × Price Each)
+11.Sales: Total sales amount (Quantity Ordered × Price Each)
 
-City: City where the order was delivered
+12.City: City where the order was delivered
 
-Hour: Hour of the order (useful for peak-hour analysis)
+13.Hour: Hour of the order (useful for peak-hour analysis)
 
